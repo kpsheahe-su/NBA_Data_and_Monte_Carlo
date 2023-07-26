@@ -16,7 +16,14 @@ The other files include NBA Logos (30), Player Profile Pictures (+1000), a user 
 If you have any questions please feel free to email me Kevin.Sheahen@ucdconnect.ie or via Whatsapp +1-201-888-9299
 
 <img width="716" alt="Bucket Getter Main" src="https://github.com/kpsheahe-su/NBA_Data_and_Monte_Carlo/assets/35640823/c5f1b413-d9e5-447e-9d1d-2172163fce6c">
-![Uploading Bucket Getter Player.PNG…]()
-![Uploading Bucket Getter Team.PNG…]()
+<img width="1064" alt="Bucket Getter Player" src="https://github.com/kpsheahe-su/NBA_Data_and_Monte_Carlo/assets/35640823/d842cc30-5a66-47ad-91e6-a7670a835c57">
+
+![NBA_Dashboard_V8___Tableau_Public_-_Google_Chrome_2023-07-26_11-06-06_AdobeExpress](https://github.com/kpsheahe-su/NBA_Data_and_Monte_Carlo/assets/35640823/2692fce5-aa34-4a97-8317-71e90479d9fd)
+
+
+<img width="1053" alt="Bucket Getter Team" src="https://github.com/kpsheahe-su/NBA_Data_and_Monte_Carlo/assets/35640823/49e3500d-c9a1-4330-984e-86340815184e">
+
+
+
 
 
