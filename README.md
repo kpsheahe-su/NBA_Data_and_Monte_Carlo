@@ -12,5 +12,11 @@ The third dataset is Player Season Long data (Player_Season_Stats2.csv) which in
 
 The other files include NBA Logos (30), Player Profile Pictures (+1000), a user guide that details more information, and the Python files needed to create the datasets. The tools used in this work were Python, Tableau, and Excel. Special Mention to Sudeep Tandon and Murhaf Abdal-qader who were great teammates during the project and helped in all the steps mentioned. The final tableau tool can be found at this link: https://public.tableau.com/app/profile/sudeep.tandon/viz/NBADashboardV8/LandingPage?publish=yes and is named Bucket Getter. 
 
+
 If you have any questions please feel free to email me Kevin.Sheahen@ucdconnect.ie or via Whatsapp +1-201-888-9299
+
+<img width="716" alt="Bucket Getter Main" src="https://github.com/kpsheahe-su/NBA_Data_and_Monte_Carlo/assets/35640823/c5f1b413-d9e5-447e-9d1d-2172163fce6c">
+![Uploading Bucket Getter Player.PNG…]()
+![Uploading Bucket Getter Team.PNG…]()
+
 
